@@ -1,0 +1,148 @@
+.title {
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    color: darkgreen;
+}
+.img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:600px;
+    font-size: 500px;
+    width: 500px;
+}
+.tieu-su{
+font-size: 1cm;
+color: green;
+}
+.cd-sn{
+    font-size:0.9cm;
+    color:brown;
+}
+.sn{
+    font-size:0.8cm;
+    color: darkmagenta;
+}
+.album1{
+    font-size: 0.5cm;
+    color: black;
+}
+.sn2{
+    font-size: 0.8cm;
+    color: darkmagenta;
+}
+.album2{
+    font-size:0.5cm;
+    color: black;
+}
+.sn3{
+    font-size: 0.8cm;
+    color:darkmagenta;
+}
+.album3{
+    font-size: 0.5cm;
+    color:black;
+    
+}
+.sn4{
+    font-size:0.8cm;
+    color: darkmagenta;
+}
+.album4{
+    font-size: 0.5cm;
+    color: black;
+}
+.img-album{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    font-size: 400px;
+}
+.pc{
+    font-size:0.9cm;
+    color:brown;
+}
+.noi-dung1{
+    font-size: 0.5cm;
+    color:black;
+    margin-right:45px;
+}
+.noi-dung2{
+    font-size: 0.5cm;
+    color:black;
+}
+.img-thr{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    font-size: 800px;
+}
+.hdk{
+    font-size: 0.9cm;
+    color: brown;
+}
+.thr{
+    font-size: 0.8cm;
+    color: darkmagenta;
+}
+.hdtt{
+    font-size:0.8cm;
+    color:darkmagenta;
+}
+.nd-tt{
+    font-size: 0.5cm;
+    color: black;
+}
+.img-1{
+    display: block;
+    height:300px;
+    font-size:300px;
+}
+.img-2{
+    display: block;
+    height:307px;
+    font-size:500px;
+    margin-top: 50px;
+
+}
+.img-3{
+    display: inline;
+    height:302px;
+    font-size:400px;
+    padding-top: 60px;
+}
+.img-4{
+    display:block;
+    height:500px;
+    font-size:900px;
+    margin-top:50px;
+    
+}
+.img-5{
+    display: block;
+    height:674px;
+    font-size:900px;
+    margin-top: 50px;
+}
+.img-6{
+    display:block;
+    height: 450px;
+    font-size:500px;
+    margin-top: 50px;
+}
+.cam-nhan{
+    font-size:0.5cm;
+    color: red;
+}
+.box{
+    
+     flex-direction: column-reverse;
+     align-content: space-between;
+     flex-wrap: wrap;
+}
